@@ -1,4 +1,4 @@
-./scala_start.sh &
+./start_sugar.sh &
 sleep 150
 echo "p"
 sleep 60
